@@ -8,7 +8,7 @@
 
 <button id="playSound">Воспроизвести звук</button>
 
-<audio id="soundClip" src="path_to_your_audio_file.mp3"></audio>
+<audio id="soundClip" src="path_to_your_audio_file.mp3"></audio>//аудиовыход
 
 <script>
 document.getElementById('playSound').addEventListener('click', function() {
